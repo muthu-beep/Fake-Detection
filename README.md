@@ -8,5 +8,5 @@ Convert the Android App to a Flutter based app so it can be used with Apple devi
 
 ## Screenshots
 
-![Screenshot-1](images/ss1.jpg)
-![Screenshot-2](images/ss2.jpg)
+![Screenshot-1](Images/ss1.jpg)
+![Screenshot-2](Images/ss2.jpg)
