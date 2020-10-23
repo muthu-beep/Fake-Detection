@@ -1,0 +1,15 @@
+Indian - 10 (New)
+Indian - 10 (Old)
+Indian - 100 (New)
+Indian - 100 (Old)
+Indian - 20
+Indian - 200
+Indian - 2000
+Indian - 50 (New)
+Indian - 50 (Old)
+Indian - 500
+Thai - 100
+Thai - 1000
+Thai - 20
+Thai - 50
+Thai - 500

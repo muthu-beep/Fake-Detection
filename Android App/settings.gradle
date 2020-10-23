@@ -1,0 +1,2 @@
+rootProject.name = 'Fake Detect'
+include ':app'
