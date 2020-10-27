@@ -6,6 +6,9 @@ There is a lot of fake currency in our world used for nefarious tasks. However, 
 
 Convert the Android App to a Flutter based app so it can be used with Apple devices too. 
 
+## Live Testing
+![Test-1](Images/ss3.gif)
+
 ## Screenshots
 
 ![Screenshot-1](Images/ss1.jpg)
